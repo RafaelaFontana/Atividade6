@@ -1,8 +1,8 @@
 programa {
  funcao inicio() {
   
-  /*6. Faça um programa que receba dois números
-  inteiros e gere os números inteiros que estão 
+  /*6. FaÃ§a um programa que receba dois nÃºmeros
+  inteiros e gere os nÃºmeros inteiros que estÃ£o 
   no intervalo compreendido por eles. */
   
   inteiro x = 0 
@@ -14,7 +14,7 @@ programa {
   leia(x)
   escreva("Informe outro valor: ")
   leia(y)
-  
+ 
   se (x < y) {
       x++
       y--
@@ -33,9 +33,9 @@ programa {
   escreva(menor + " ")
   menor = menor + 1
   }
-  
-  
- 
- 
  }
+ 
+ /*ComentÃ¡rios*/
+ 
 }
+
